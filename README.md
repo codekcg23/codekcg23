@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Kavishka Gamage
+### 👋 Hi there
 
 <!--
 **codekcg23/codekcg23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
